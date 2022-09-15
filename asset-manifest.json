@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.f12be271.css",
-    "main.js": "/static/js/main.778721e3.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/python.png": "/static/media/python.6a5cbc319ab3ddf8ef92.png",
-    "static/media/atom.png": "/static/media/atom.ac9979693620f0a96231.png",
-    "static/media/programmer.png": "/static/media/programmer.f0727d4fcad66c17842f.png",
-    "static/media/whatsapp.png": "/static/media/whatsapp.8d81ece5885274edfd73.png",
-    "static/media/mysql.png": "/static/media/mysql.9b321b61f1d106598f17.png",
-    "static/media/java.png": "/static/media/java.f5dd86c3ef6ef3f85acf.png",
-    "static/media/coding.png": "/static/media/coding.a3406fa6b026d3bd5185.png",
-    "static/media/java-script.png": "/static/media/java-script.78206ba65e01c7d57080.png",
-    "static/media/linkedin.png": "/static/media/linkedin.f249b38224ca41a0b909.png",
-    "index.html": "/index.html",
-    "main.f12be271.css.map": "/static/css/main.f12be271.css.map",
-    "main.778721e3.js.map": "/static/js/main.778721e3.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/portfolio-website/static/css/main.f12be271.css",
+    "main.js": "/portfolio-website/static/js/main.c725fa74.js",
+    "static/js/787.128fc6e9.chunk.js": "/portfolio-website/static/js/787.128fc6e9.chunk.js",
+    "static/media/python.png": "/portfolio-website/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/atom.png": "/portfolio-website/static/media/atom.ac9979693620f0a96231.png",
+    "static/media/programmer.png": "/portfolio-website/static/media/programmer.f0727d4fcad66c17842f.png",
+    "static/media/whatsapp.png": "/portfolio-website/static/media/whatsapp.8d81ece5885274edfd73.png",
+    "static/media/mysql.png": "/portfolio-website/static/media/mysql.9b321b61f1d106598f17.png",
+    "static/media/java.png": "/portfolio-website/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/coding.png": "/portfolio-website/static/media/coding.a3406fa6b026d3bd5185.png",
+    "static/media/java-script.png": "/portfolio-website/static/media/java-script.78206ba65e01c7d57080.png",
+    "static/media/linkedin.png": "/portfolio-website/static/media/linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/portfolio-website/index.html",
+    "main.f12be271.css.map": "/portfolio-website/static/css/main.f12be271.css.map",
+    "main.c725fa74.js.map": "/portfolio-website/static/js/main.c725fa74.js.map",
+    "787.128fc6e9.chunk.js.map": "/portfolio-website/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f12be271.css",
-    "static/js/main.778721e3.js"
+    "static/js/main.c725fa74.js"
   ]
 }
