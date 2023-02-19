@@ -1,5 +1,5 @@
 import React from 'react'
-import projecticn from "../icns/icons8-projects-64.png"
+import projecticn from "../assets/icons8-projects-64.png"
 
 const projectdiv = 'capatalize hover:rounded-2xl hover:shadow-green-300 hover:bg-gray-800 w-96 m-4 p-4 shadow-sm shadow-blue-400 flex flex-col justify-between'
 const Projects = () => {

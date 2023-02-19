@@ -1,7 +1,7 @@
 import React, { useRef, useState } from 'react'
 
 const Nav = () => {
-  const linkStyle = 'sm:my-4 xl:border-none lg:border-none sm:border-2 shadow-lg hover:shadow-amber-200 text-center mx-8 cursor-pointer p-2 rounded-md xl:hover:bg-gray-700 xl:bg-transparent lg:bg-transparent transition hover:opacity-80'
+  const linkStyle = 'sm:my-4 xl:border-none lg:border-none sm:border-2 shadow-lg hover:shadow-amber-200 text-center mx-8 cursor-pointer p-2 rounded-md xl:hover:bg-gray-700 xl:bg-transparent lg:bg-transparent transition '
   return (
 
     <div className={`flex justify-around w-44 md:flex-col sm:flex-col xl:flex-row lg:flex-row `}>
@@ -59,7 +59,7 @@ const Navbar = () => {
         <Nav />
       </div>
 
-      <div className={`absolute mt-2 left-0 bg-purple-900 xl:hidden lg:hidden md:${stylemenu} sm:${stylemenu} ${styleTranslate} ease-in-out duration-300`}>
+      <div className={`absolute mt-2 left-0 bg-purple-900 xl:hidden lg:hidden md:${stylemenu} sm:${stylemenu} ${styleTranslate} ease-in-out duration-300 z-50 `}>
         <Nav />
       </div>
 

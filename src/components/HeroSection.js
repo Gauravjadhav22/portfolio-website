@@ -1,9 +1,9 @@
 import React from 'react'
-import programmer from "../icns/programmer.png"
-import insta from "../icns/icons8-instagram-96.png"
-import whatsapp from "../icns/whatsapp.png"
-import linkedin from "../icns/linkedin.png"
-import github from "../icns/icons8-github-50.png"
+import programmer from "../assets/programmer.png"
+import insta from "../assets/icons8-instagram-96.png"
+import whatsapp from "../assets/whatsapp.png"
+import linkedin from "../assets/linkedin.png"
+import github from "../assets/icons8-github-50.png"
 import Icon from '../components/Icon';
 
 export const ContactLinks = () => {
@@ -30,8 +30,8 @@ const HeroSection = () => {
       </div>
       <div className='shadow-white shadow-md mt-4 p-4 bg-white rounded-xl flex-col transition'>
 
-        <div className='shadow-lg flex flex-col items-center border-4 px-8 pt-2 text-black '>
-          <img src={programmer} className='max-w-xs' />
+        <div className=' w-fit shadow-lg flex flex-col items-center border-4 px-8 pt-2 text-black '>
+          <img src={programmer} className='w-64 xl:max-w-xl' />
           <h1 className='font-bold text-xl mt-1'>GAURAV JADHAV</h1>
           <h1 className='font-bold text-gray-500'>(Full Stack Developer)</h1>
         </div>
