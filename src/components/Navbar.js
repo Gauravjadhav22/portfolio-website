@@ -11,6 +11,7 @@ const Nav = () => {
       <a className={`${linkStyle}`} href='#Skills'>Skills</a>
       <a className={`${linkStyle}`} href='#contact'>Contact</a>
       {/* <a className={`${linkStyle} !bg-cyan-800`} href='https://drive.google.com/file/d/1r7SszG17yE8DMzYLoiPILTjgxQ7JpZsX/view?usp=sharing' target='_blank' >Resume</a> */}
+      {/* <a className={`${linkStyle} !bg-cyan-800`} href='https://drive.google.com/file/d/1r7SszG17yE8DMzYLoiPILTjgxQ7JpZsX/view?usp=sharing' target='_blank' >Resume</a> */}
 
     </div>
 
