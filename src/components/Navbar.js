@@ -33,7 +33,6 @@ const Navbar = () => {
     }
     else if (!menu.current) {
       setStyleTranslate("-ml-44")
-      // setStyleMenu("hidden")
 
     }
   }
