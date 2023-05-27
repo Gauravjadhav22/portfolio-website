@@ -7,7 +7,7 @@ const Projects = () => {
         <div id='projects' className='my-20'>
             <div className='text-2xl text-center font-bold flex justify-center items-center mb-8'><h1>Projects</h1> <img src={projecticn} height={30} width={30} /></div>
 
-            <div className='capitalize flex flex-wrap justify-center items-stretch'>
+            <div className='capitalize flex flex-wrap justify-center items-stretch gap-4'>
 
                 <div className={`${projectdiv} hover:scale-110 transition`}><h1>Blogging App(MERN)</h1>
 

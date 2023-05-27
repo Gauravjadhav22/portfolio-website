@@ -1,7 +1,7 @@
 import React, { useRef, useState } from 'react'
 
 const Nav = () => {
-  const linkStyle = 'sm:my-4 xl:border-none lg:border-none sm:border-2 shadow-lg hover:shadow-amber-200 text-center mx-8 cursor-pointer p-2 rounded-md xl:hover:bg-gray-700 xl:bg-transparent lg:bg-transparent transition '
+  const linkStyle = 'sm:my-4 xl:border-none lg:border-none sm:border-2 shadow-md hover:shadow-amber-200 text-center mx-8 cursor-pointer p-2 rounded-md xl:hover:bg-gray-700 xl:bg-transparent lg:bg-transparent transition '
   return (
 
     <div className={`flex justify-around w-44 md:flex-col sm:flex-col xl:flex-row lg:flex-row `}>
@@ -10,7 +10,7 @@ const Nav = () => {
       <a className={`${linkStyle}`} href='#projects'>Work</a>
       <a className={`${linkStyle}`} href='#Skills'>Skills</a>
       <a className={`${linkStyle}`} href='#contact'>Contact</a>
-      <a className={`${linkStyle} !bg-cyan-800`} href='https://drive.google.com/file/d/1r7SszG17yE8DMzYLoiPILTjgxQ7JpZsX/view?usp=sharing' target='_blank' >Resume</a>
+      {/* <a className={`${linkStyle} !bg-cyan-800`} href='https://drive.google.com/file/d/1r7SszG17yE8DMzYLoiPILTjgxQ7JpZsX/view?usp=sharing' target='_blank' >Resume</a> */}
 
     </div>
 
@@ -59,7 +59,7 @@ const Navbar = () => {
         <Nav />
       </div>
 
-      <div className={`absolute mt-2 left-0 bg-purple-900 xl:hidden lg:hidden md:${stylemenu} sm:${stylemenu} ${styleTranslate} ease-in-out duration-300 z-50 `}>
+      <div className={`absolute mt-2 left-0 bg-teal-800 rounded-md xl:hidden lg:hidden md:${stylemenu} sm:${stylemenu} ${styleTranslate} ease-in-out duration-300 z-50 `}>
         <Nav />
       </div>
 

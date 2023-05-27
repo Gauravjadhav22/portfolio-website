@@ -19,7 +19,7 @@ export const ContactLinks = () => {
 
 const HeroSection = () => {
   return (
-    <div id='about' className='xl:px-20 justify-around items-center flex mt-8 pt-14 xl:flex-row md:flex-col sm:flex-col xl:mr-20'>
+    <div id='about' className='xl:px-20 justify-around items-center flex mt-8 pt-14 xl:flex-row md:flex-col sm:flex-col xl:mr-20 gap-3'>
       <div>
         <h1 className='text-lg' >  Hi, my name is</h1>
         <h1 className='text-2xl text-white font-bold'>Gaurav Jadhav.</h1><br />
