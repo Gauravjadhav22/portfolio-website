@@ -26,7 +26,7 @@ const Projects = () => {
 
                     </ul>
                     <br />
-                    <a href='https://blogging-app-react-b5zomog0g-rgaurav22ak-gmailcom.vercel.app/' target='_blank' className='border-2 text-center pb-1 px-2 underline text-green-400 border-blue-500 self-end border-none bg-blue-900 p-1 rounded-xl'>view demo</a>
+                    <a href='https://blogging-app-react-3k80mwdeg-rgaurav22ak-gmailcom.vercel.app/' target='_blank' className='border-2 text-center pb-1 px-2 underline text-green-400 border-blue-500 self-end border-none bg-blue-900 p-1 rounded-xl'>view demo</a>
                 </div>
                 <div className={`${projectdiv} hover:scale-110 transition`}><h1>Ecommerce Site(MERN)</h1>
 
@@ -65,7 +65,7 @@ const Projects = () => {
                     <a href='https://online-voting-frontend-k32j.vercel.app/' target='_blank' className='border-2 text-center pb-1 px-2 underline text-green-400 border-blue-500 self-end border-none bg-blue-900 p-1 rounded-xl'>view demo</a>
 
                 </div>
-                <div className={`${projectdiv} hover:scale-110 transition`}><h1>Movies Info App (NEXT JS)</h1>
+                <div className={`${projectdiv} hover:scale-110 transition`}><h1>I'card Generator (REACT JS & FIREBASE)</h1>
                     <br />
                     <ul className='leading-6'>
                         <li className='bg-cyan-200 bg-opacity-20 p-2'>
